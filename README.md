@@ -1,4 +1,4 @@
-- 👋hola mi nombre Irina Salas
+- 👋Hola mi nombre Irina Salas
 - 👀 Me interesa la programación web
 - 🌱 Estoy actualmente aprendiendo Laravel
 - 💞️ Me gustaría colaborar en proyectos que utilicen  Laravel o Codeigniter 
